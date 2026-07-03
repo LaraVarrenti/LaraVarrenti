@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Estudiante de Ingeniería en Sistemas | Desarrolladora Full Stack<br>Rosario, Argentina.<br><br>Bienvenido a mi perfil de GitHub. Aquí vas a encontrar los proyectos en los que estoy trabajando, mis prácticas de código y mi evolución en el desarrollo de software.</p>
+<p data-importer="text" align="left">Estudiante de Ingeniería en Sistemas y Desarrolladora Full Stack<br><br>Bienvenido a mi perfil de GitHub. Aquí vas a encontrar los proyectos en los que estoy trabajando, mis prácticas de código y mi evolución en el desarrollo de software.</p>
 
 ###
 
